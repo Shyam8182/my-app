@@ -1,6 +1,6 @@
 # clone karva mate 
 
-### `git clone https://github.com/Shyam8182/my-app`
+### `npm create vite@latest`
 
 
 
