@@ -1,6 +1,6 @@
 # clone karva mate 
 
-### `npm create vite@latest`
+### `npx create-react-app my-app`
 
 
 
